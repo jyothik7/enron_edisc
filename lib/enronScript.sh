@@ -11,8 +11,7 @@ do
     for i in `unzip -l $j | awk '{print $NF}' | grep ".*\.txt" | grep -v "native"`
     do
         echo "-------- FILE: $i"  
-        cat <(printf "<DOC>\n<DOCNO>`basename $i`</DOCNO>\n<TEXT>\n") <(unzip -p $j $i | perl /Users/jyothi/Documents/EDiscovery/Spring2013/clean.pl) <(printf "\n</TEXT>\n</DOC>\n") >> $dump_dir/$fileName              
-       # cat <(printf "<DOC>\n<DOCNO>`basename $i`</DOCNO>\n<TEXT>\n") <(unzip -p $j "$i") <(printf "\n</TEXT>\n</DOC>\n") >> $dump_dir/$fileName
+        cat <(printf "<DOC>\n<DOCNO>`basename $i`</DOCNO>\n") <(unzip -p $j $i | perl parseToTags.pl) <(printf "\n</DOC>\n") >> $dump_dir/$fileName
         done
     echo "************************************************"
     echo " "
