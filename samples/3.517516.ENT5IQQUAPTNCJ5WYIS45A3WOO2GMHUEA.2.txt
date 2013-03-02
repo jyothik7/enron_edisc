@@ -1,0 +1,67 @@
+TEMPORARY ASSIGNMENT AND AMENDMENT AGREEMENT
+PSCO Contract 124620
+
+ This Temporary Assignment and Amendment Agreement (this “Agreement”) is entered into effective as of the 1st of December, 2000 (the “Effective Date”), by and between Sandia Resources Corporation, a Colorado corporation  (“Assignor”) and Enron North America Corp., a Delaware corporation (“Assignee”) and Public Service Company of Colorado, a Colorado corporation (“PSC”) (PSC also referred to as “Buyer” under the Purchase Agreement (hereinafter defined)).
+
+ WHEREAS, Assignor desires to temporarily assign all of its rights in and delegate all of its obligations under that certain Gas Purchase Agreement between Assignor and PSC dated October 1, 1993 as amended on September 1, 1994 and amended on July 1, 2000 (the “Purchase Agreement”) to Assignee for the period from December 1, 2000 to March 31, 2001 (the “Assignment Period”); 
+
+WHEREAS, Assignee likewise desires to temporarily receive the benefit of all of Assignor’s rights and to assume all of Assignor’s obligations under the Purchase Agreement during the Assignment Period, subject to the amendment of the Purchase Agreement as herein provided; 
+
+ NOW THEREFORE, in consideration of the mutual agreements contained herein, the receipt and sufficiency of which are hereby acknowledged by Assignor, Assignee, and PSC hereby agree as follows:
+
+ 1. Temporary Assignment and Authority.  Assignor does hereby assign, transfer and convey all of its rights, obligations and interest under and to the Purchase Agreement, as amended in Section 2 of this Agreement (the “Amended Purchase Agreement”), during the Assignment Period, and the rights and benefits represented thereby, and Assignee does hereby assume and agree to perform all obligations of Assignor under the Purchase Agreement arising during the Assignment Period.
+
+
+Amendment.  PSC and Assignee agree that during the Assignment Period only, the Purchase Agreement shall be amended as follows:
+
+
+Article II of the Purchase Agreement shall be amended and restated by deleting Section 2.5 and Section 2.6 in their entirety and replacing them with the following:
+
+“2.5  BUYER’S MINIMUM VOLUME OBLIGATION. If on any Gas Day Buyer fails to take 100% of the daily volume obligation as set forth in Section 2.1 above (the “Minimum Daily Volume”), then such occurrence shall constitute a "Buyer's Deficiency Default" and "Buyer's Deficiency Quantity" shall be the numerical difference between the Minimum Daily Volume and the quantity of Gas taken by the Buyer for such Gas Day.  In the event of a Buyer's Deficiency Default, Buyer shall pay Seller the sum of the following:  (i) an amount equal to the product of Buyer's Deficiency Quantity multiplied by the Replacement Price Differential (hereinafter defined), plus (ii) any penalty charges associated with the sale of the Buyer’s Deficiency Quantity.  For the purposes of this Section 2.5 the “Replacement Price Differential” shall be the positive difference, if any, obtained by subtracting the lesser of (a) the price obtained by Seller in an incremental, arms-length sale(s) to a third party of a quantity equal to Buyer's Deficiency Quantity for such Gas Day, less incremental transportation charges to Seller, and including other basis adjustments, or (b) the Spot Price for the Gas Day in which Buyer's Deficiency Default occurred, from the price for gas hereunder as set forth in Section 4.1.  For the purposed of this Section 2.5, the “Spot Price” shall be the “Daily Midpoint” price set forth in Gas Daily® (Pasha Publications, Inc.), or successor publication, in the column "Daily Price Survey" under the listing applicable to “CIG Pipeline (North System)” for the relevant Gas Day.  If there is no single“Daily Midpoint” price published for that particular Gas Day, but there is published a "Common" range of prices under the above column and listing, then the Spot Price shall be the average of such “Common” high and low prices.  Such amount shall be paid by Buyer to Seller within 30 days of Buyer’s receipt of Seller’s invoice therefore.”  
+
+
+Article XI - LIABILITY of the Purchase Agreement shall be amended by adding the following after Section 12.1:
+ 
+ 12.2  DAMAGES.  THE PARTIES DO HEREBY CONFIRM THAT THE EXPRESS REMEDIES AND MEASURES OF DAMAGES PROVIDED IN THIS AGREEMENT SATISFY THE ESSENTIAL PURPOSES HEREOF.  FOR BREACH OF ANY PROVISION FOR WHICH AN EXPRESS REMEDY OR MEASURE OF DAMAGES IS HEREIN PROVIDED, SUCH EXPRESS REMEDY OR MEASURE OF DAMAGES SHALL BE THE SOLE AND EXCLUSIVE REMEDY HEREUNDER, THE OBLIGOR'S LIABILITY SHALL BE LIMITED AS SET FORTH IN SUCH PROVISION AND ALL OTHER REMEDIES OR DAMAGES AT LAW OR IN EQUITY ARE WAIVED.  IF NO REMEDY OR MEASURE OF DAMAGES IS EXPRESSLY HEREIN PROVIDED, THE OBLIGOR'S LIABILITY SHALL BE LIMITED TO DIRECT ACTUAL DAMAGES ONLY, SUCH DIRECT ACTUAL DAMAGES SHALL BE THE SOLE AND EXCLUSIVE REMEDY HEREUNDER AND ALL OTHER REMEDIES OR DAMAGES AT LAW OR IN EQUITY ARE WAIVED.  UNLESS EXPRESSLY HEREIN PROVIDED, NEITHER PARTY SHALL BE LIABLE FOR CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES, LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES, IN TORT, CONTRACT, UNDER ANY INDEMNITY PROVISION OR OTHERWISE.  TO THE EXTENT ANY DAMAGES REQUIRED TO BE PAID HEREUNDER ARE LIQUIDATED, THE PARTIES ACKNOWLEDGE THAT THE DAMAGES ARE DIFFICULT OR IMPOSSIBLE TO DETERMINE, OTHERWISE OBTAINING AN ADEQUATE REMEDY IS INCONVENIENT AND THE LIQUIDATED DAMAGES CONSTITUTE A REASONABLE APPROXIMATION OF THE HARM OR LOSS.”         
+
+
+Except as amended herein, the Purchase Agreement shall be and remain in full force and effect.
+
+
+Consent.  PSC hereby consents to the temporary assignment of the Amended Purchase Agreement from Assignor to Assignee.  
+
+
+Termination.  This Agreement shall terminate upon expiration of the Assignment Period.  Upon termination of this Agreement, the temporary assignment and amendment of the Purchase Agreement shall immediately terminate and all rights and obligations of Assignee under the Purchase Agreement shall revert to Assignor.  Notwithstanding the foregoing, Buyer and Assignee shall retain all rights and obligations, including without limitation, liability for all payment obligations, attributable to the Assignment Period.
+
+
+Modification.  Neither Assignor, Assignee, or PSC shall have the right to amend the Amended Purchase Agreement during the Assignment Period without the consent of the other parties to this Agreement.
+
+6. Governing Law.  This Agreement shall be governed and construed in accordance with the laws of the State of Colorado, excluding any conflict of laws rules which may require the application of the laws of a different jurisdiction.
+
+7. Completeness.  This Agreement sets forth the entire agreement of the parties and supersedes all prior and existing agreements relating to the subject matter hereof, whether oral or written, consistent or inconsistent.
+
+8. Counterparts.  This Agreement may be signed in one or more counterparts, which together shall constitute one and the same agreement.
+
+ IN WITNESS WHEREOF, the parties hereto have executed this Assignment effective as of the Effective Date.
+
+
+ENRON NORTH AMERICA CORP.
+
+By: ___________________________
+Its ____________________________
+
+
+
+SANDIA RESOURCES CORPORATION
+
+By: ___________________________
+Its ____________________________
+
+
+PUBLIC SERVICE COMPANY OF COLORDAO
+
+By: ___________________________
+Its ____________________________
+
+
+ 
